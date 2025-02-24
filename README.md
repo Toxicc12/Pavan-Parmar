@@ -40,6 +40,11 @@
 ![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toxicc12&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicc12&layout=compact&theme=tokyonight)  
 
+### 🏆 GitHub Achievements  
+![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)  
+I earned the **Pull Shark** badge for making impactful pull requests! 🦈🚀
+
+
 ---
 
 ### **📬 Let's Connect**
